@@ -181,4 +181,13 @@ export const messages = [
     coverImg: "./sathishcover.jpg",
     profileImg: "./sathishprofile.jpg",
   },
+    {
+ title: "Groups & chat ftw",
+name: "Hui Yi",
+rel: "Ex-Colleague",
+msg: "miss working with u yaohui - thanks for all the work you've done, and all those convos on social impact and sharing hamster pics. lol have fun in amazon, hope to see u start something when u back!!",
+coverImg: "./hamster.jpg",
+profileImg: "./groups.png",
+  },
+];
 ];
