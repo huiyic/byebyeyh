@@ -33,4 +33,13 @@ export const messages = [
     name: "Bang, occasionally, Bui",
     profileImg: "./bangprofile.jpg",
   },
+  {
+    title: "Want to earn $10,000 a month in 5 easy steps?",
+    msg:
+      "Commit to each day with everything you have. Pour everything you have into what you do.",
+    rel: "Sponsored Ad",
+    name: "Stiff Tan",
+    coverImg: "./supertanbroscover.jpg",
+    profileImg: "./supertanbrosprofile.jpeg",
+  },
 ];
