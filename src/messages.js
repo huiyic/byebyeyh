@@ -50,4 +50,12 @@ export const messages = [
     coverImg: "./aaronlam.png",
     profileImg: "./aaronlam.jpeg",
   }
+  {
+    title: "My torrent navigator",
+    msg: "oh man bui i miss so much working with you and the team. :( happy for you that you'll be off to learn a lot more, hope you'll eventually go back vietnam b the convenience store owner that you've always wanted. thx for everything, u can have ur convenience store if you believe you can do it!!!",
+    rel: "Your favourite PM",
+    name: "Huiyi",
+    coverImg: "./seo.png",
+    profileImg: "./xfers.png",
+  } 
 ];
