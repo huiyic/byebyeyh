@@ -17,4 +17,12 @@ export const messages = [
     profileImg: "./dylanprofile.jpg",
     rel: "Shadow Shaman Cosplayer",
   },
+  {
+    title: "Good Luck Bro",
+    name: "Chenghua",
+    msg:
+      "So glad that I've worked with you, thanks for all your guidances. Really learnt alot from you. All the best!",
+    coverImg: "./chenghuacover.jpg",
+    profileImg: "./chenghuaprofile.png",
+  },
 ];
