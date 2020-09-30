@@ -16,8 +16,10 @@ export default function LeftContent() {
         >
           <div style={{ fontSize: "14px", fontWeight: 500 }}>My Groups (6)</div>
         </div>
-        <Row title="Good bye" lastUpdated="2 months ago" />
-        <Row title="Welcome to the family" lastUpdated="3 years ago" />
+        <Row title="NTR" lastUpdated="2 months ago" />
+        <Row title="Ugly bastard" lastUpdated="3 years ago" />
+        <Row title="Dota Pos 0" lastUpdated="1 years ago" />
+        <Row title="Farmer girls inside" lastUpdated="1 months ago" />
         <br />
         <div className="leftLink">Discover groups</div>
         <div className="leftLink">Join your school groups</div>
