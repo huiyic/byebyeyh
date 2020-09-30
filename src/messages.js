@@ -17,4 +17,12 @@ export const messages = [
     profileImg: "./dylanprofile.jpg",
     rel: "Shadow Shaman Cosplayer",
   },
+  {
+    coverImg: "./bangcover.jpg",
+    title: "Happy Birthday~~",
+    msg: "To you ❤️",
+    rel: "Better half of @bangbui",
+    name: "Bang, occasionally, Bui",
+    profileImg: "./bangprofile.jpg",
+  },
 ];
