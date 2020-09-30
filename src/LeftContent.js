@@ -20,6 +20,7 @@ export default function LeftContent() {
         <Row title="Ugly bastard" lastUpdated="3 years ago" />
         <Row title="Dota Pos 0" lastUpdated="1 years ago" />
         <Row title="Farmer girls inside" lastUpdated="1 months ago" />
+        <Row title="Dropshipping Enthusiast" lastUpdated="2 weeks ago" />
         <br />
         <div className="leftLink">Discover groups</div>
         <div className="leftLink">Join your school groups</div>
