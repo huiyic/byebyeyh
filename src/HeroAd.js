@@ -2,7 +2,7 @@ import React from "react";
 
 export default function HeroAd(props) {
   // random number generator
-  const HERO_ADS = 9;
+  const HERO_ADS = 10;
   const ad = Math.floor(Math.random() * HERO_ADS);
   console.log(ad);
   return (
