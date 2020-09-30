@@ -42,4 +42,12 @@ export const messages = [
     coverImg: "./supertanbroscover.jpg",
     profileImg: "./supertanbrosprofile.jpeg",
   },
+  {
+    title: "See you again Bui",
+    msg: "It's been a blast working with you Bui, I'm going to miss all yours 'WTF' catch phrase. Thanks for helping and teaching me along the ways when we worked together. Wish you nothing but the best of luck and stop watching so much Yaoi lol.",
+    rel: "Nooo more bangbui 😭",
+    name: "Aaron",
+    coverImg: "./aaronlam.png",
+    profileImg: "./aaronlam.jpeg",
+  }
 ];
