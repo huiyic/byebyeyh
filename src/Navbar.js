@@ -11,7 +11,7 @@ export default function Navbar(props) {
         <img
           style={{ marginTop: "1px" }}
           height="32px"
-          src="logo.svg"
+          src="logo.png"
           alt="lol"
         />
         <div className="searchbar">
