@@ -86,4 +86,12 @@ export const messages = [
     coverImg: "./jennycover.jpg",
     profileImg: "./jennyprofile.jpg",
   },
+  {
+    title: "お疲れ様です",
+    name: "clarence",
+    msg:
+      "Imouto-sensei, a life of zen and enjoyment awaits. Keep working on your goals and hope you'll fulfill your dreams back home in Vietnam! Thanks for being a great teammate, and for your candid insights and the game & show recommendations.",
+    coverImg: "./clarencecover.jpg",
+    profileImg: "./clarenceprofile.jpg",
+  },
 ];
