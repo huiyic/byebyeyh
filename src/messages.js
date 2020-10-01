@@ -49,5 +49,14 @@ export const messages = [
     name: "Aaron",
     coverImg: "./aaronlam.png",
     profileImg: "./aaronlam.jpeg",
+  },
+  {
+    title: "It works! I've tried it!",
+    msg:
+      "Want to grow your PP? Try the ElongatorMax2020 for only $50 a pop right now!",
+    rel: "Sponsored Ad",
+    name: "ElongatorMax2020",
+    coverImg: "./pp.jpg",
+    profileImg: "./ppprofile.jpg",
   }
 ];
