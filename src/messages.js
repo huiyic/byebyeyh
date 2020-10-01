@@ -70,6 +70,15 @@ export const messages = [
     profileImg: "./ppprofile.jpg",
   },
   {
+    title: "It's just lonely bang in @bangbui now :(",
+    msg:
+      "My bro, I thought you like it here with Bang and the web team :( Sad to see you leave, we've been working together for nearly 5 year, going to miss your funny jokes bruh!! If Foodpanda sucks, you are always welcomed at Carousell hahaha",
+    rel: "foodpanda sucks",
+    name: "Dave",
+    coverImg: "./davecover.jpeg",
+    profileImg: "./daveprofile.jpg",
+  },
+  {
     title: "Ciao Ciao Master Bui",
     msg:
       "It's an honor working with you closely in the vertical homescreen. Thanks for allowing me to steal your knowledge while we were working together. All the best man and give me some vouchers",
