@@ -78,4 +78,12 @@ export const messages = [
     coverImg: "./andrewcover.jpg",
     profileImg: "./andrewprofile.jpeg",
   },
+  {
+    title: "Best wishes to you, master Bui",
+    name: "Jenny",
+    msg:
+      "So sad that I wasn't able to work with and learn from you in 2020 H1 on web automation as I initially proposed. Thought I'd be able to get back to you in H2 but now you're leaving. :pepesad: Thank you for all your PR comments. Wish you all the best in searching for your next fantastic job either in SG or in VN!",
+    coverImg: "./jennycover.jpg",
+    profileImg: "./jennyprofile.jpg",
+  },
 ];
