@@ -55,8 +55,8 @@ export const messages = [
     msg: "Thanks for all the web-fu, dota-fu, manga-fu and hentai-fu you've shown me",
     rel: "I admit nothing but my sadness that you're gone",
     name: "Ming",
-    coverImg: "./mingcc.png",
-    profileImg: "./mingpp.jpeg",
+    coverImg: "./mingcc.jpg",
+    profileImg: "./mingpp.png",
   },
   {
     title: "It works! I've tried it!",
