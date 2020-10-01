@@ -103,4 +103,12 @@ export const messages = [
     coverImg: "./clarencecover.jpg",
     profileImg: "./clarenceprofile.jpg",
   },
+  {
+    title: "Bye Bye Master Bui",
+    msg:
+      "Yo mah bro. Sayonara and all the best.",
+    name: "Edward Samuel",
+    coverImg: "./edwardcp.jpg",
+    profileImg: "./edwardpp.jpg",
+  },
 ];
