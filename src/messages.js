@@ -76,6 +76,6 @@ export const messages = [
     rel: "Imposter",
     name: "Andrew",
     coverImg: "./andrewcover.jpg",
-    profileImg: "./andrewprofile.jpg",
+    profileImg: "./andrewprofile.jpeg",
   },
 ];
