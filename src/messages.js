@@ -70,13 +70,13 @@ export const messages = [
     profileImg: "./ppprofile.jpg",
   },
   {
-    title: "Ciao Ciao Master",
+    title: "Ciao Ciao Master Bui",
     msg:
       "It's an honor working with you closely in the vertical homescreen. Thanks for allowing me to steal your knowledge while we were working together. All the best man and give me some vouchers",
     rel: "Imposter",
     name: "Andrew",
     coverImg: "./andrewcover.jpg",
-    profileImg: "./andrewprofile.jpeg",
+    profileImg: "./andrewprofile.jpg",
   },
   {
     title: "Best wishes to you, master Bui",
