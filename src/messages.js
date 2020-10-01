@@ -75,7 +75,7 @@ export const messages = [
       "It's an honor working with you closely in the vertical homescreen. Thanks for allowing me to steal your knowledge while we were working together. All the best man and give me some vouchers",
     rel: "Imposter",
     name: "Andrew",
-    coverImg: "./andrewcover.jpg",
+    coverImg: "./andrewcover.png",
     profileImg: "./andrewprofile.jpg",
   },
   {
