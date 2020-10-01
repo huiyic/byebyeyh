@@ -51,6 +51,14 @@ export const messages = [
     profileImg: "./aaronlam.jpeg",
   },
   {
+    title: "Fellow Apex Mage",
+    msg: "Thanks for all the web-fu, dota-fu, manga-fu and hentai-fu you've shown me",
+    rel: "I admit nothing but my sadness that you're gone",
+    name: "Ming",
+    coverImg: "./mingcc.png",
+    profileImg: "./mingpp.jpeg",
+  },
+  {
     title: "It works! I've tried it!",
     msg:
       "Want to grow your PP? Try the ElongatorMax2020 for only $50 a pop right now!",
