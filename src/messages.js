@@ -44,7 +44,8 @@ export const messages = [
   },
   {
     title: "See you again Bui",
-    msg: "It's been a blast working with you Bui, I'm going to miss all yours 'WTF' catch phrase. Thanks for helping and teaching me along the ways when we worked together. Wish you nothing but the best of luck and stop watching so much Yaoi lol.",
+    msg:
+      "It's been a blast working with you Bui, I'm going to miss all yours 'WTF' catch phrase. Thanks for helping and teaching me along the ways when we worked together. Wish you nothing but the best of luck and stop watching so much Yaoi lol.",
     rel: "Nooo more bangbui 😭",
     name: "Aaron",
     coverImg: "./aaronlam.png",
@@ -52,7 +53,8 @@ export const messages = [
   },
   {
     title: "Fellow Apex Mage",
-    msg: "Thanks for all the web-fu, dota-fu, manga-fu and hentai-fu you've shown me",
+    msg:
+      "Thanks for all the web-fu, dota-fu, manga-fu and hentai-fu you've shown me",
     rel: "I admit nothing but my sadness that you're gone",
     name: "Ming",
     coverImg: "./mingcc.jpg",
@@ -66,5 +68,14 @@ export const messages = [
     name: "ElongatorMax2020",
     coverImg: "./pp.jpg",
     profileImg: "./ppprofile.jpg",
-  }
+  },
+  {
+    title: "Ciao Ciao Master",
+    msg:
+      "It's an honor working with you closely in the vertical homescreen. Thanks for allowing me to steal your knowledge while we were working together. All the best man and give me some vouchers",
+    rel: "Imposter",
+    name: "Andrew",
+    coverImg: "./andrewcover.jpg",
+    profileImg: "./andrewprofile.jpg",
+  },
 ];
