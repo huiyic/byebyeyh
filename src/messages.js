@@ -104,6 +104,14 @@ export const messages = [
     profileImg: "./clarenceprofile.jpg",
   },
   {
+    title: "Bye Bye Master Bui",
+    msg:
+      "Yo mah bro. Sayonara and all the best.",
+    name: "Edward Samuel",
+    coverImg: "./edwardcp.jpg",
+    profileImg: "./edwardpp.jpg",
+  },
+  {
     title: "A haiku for Imouto",
     name: "Yamato",
     msg:  "At the break of dawn - A man dozes on his horse - Warmth finds their faces",
