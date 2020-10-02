@@ -103,4 +103,12 @@ export const messages = [
     coverImg: "./clarencecover.jpg",
     profileImg: "./clarenceprofile.jpg",
   },
+  {
+    title: "A haiku for Imouto",
+    name: "Yamato"
+    msg:  "At the break of dawn - A man dozes on his horse - Warmth finds their faces",
+    rel: "Ghost"
+    coverImg: "./yaocover.jpg",
+    profileImg: "./yaoprofile.jpg",
+  },
 ];
