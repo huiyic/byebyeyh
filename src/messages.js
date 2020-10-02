@@ -52,10 +52,10 @@ export const messages = [
     profileImg: "./aaronlam.jpeg",
   },
   {
-    title: "Fellow Apex Mage",
+    title: "I admit nothing but my sadness that you're gone",
     msg:
       "Thanks for all the web-fu, dota-fu, manga-fu and hentai-fu you've shown me",
-    rel: "I admit nothing but my sadness that you're gone",
+    rel: "Fellow Apex Mage",
     name: "Ming",
     coverImg: "./mingcc.jpg",
     profileImg: "./mingpp.png",
