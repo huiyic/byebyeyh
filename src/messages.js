@@ -105,9 +105,9 @@ export const messages = [
   },
   {
     title: "A haiku for Imouto",
-    name: "Yamato"
+    name: "Yamato",
     msg:  "At the break of dawn - A man dozes on his horse - Warmth finds their faces",
-    rel: "Ghost"
+    rel: "Ghost",
     coverImg: "./yaocover.jpg",
     profileImg: "./yaoprofile.jpg",
   },
