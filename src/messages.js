@@ -76,7 +76,7 @@ export const messages = [
     rel: "foodpanda sucks",
     name: "Dave",
     coverImg: "./davecover.jpeg",
-    profileImg: "./daveprofile.jpg",
+    profileImg: "./daveprofile.jpeg",
   },
   {
     title: "Ciao Ciao Master Bui",
